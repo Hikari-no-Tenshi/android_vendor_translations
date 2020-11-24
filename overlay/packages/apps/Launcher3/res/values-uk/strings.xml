@@ -9,4 +9,7 @@
     <string name="trust_apps_help">Допомога</string>
     <string name="trust_apps_info_hidden">Приховані додатки і їх віджети будуть приховані з меню додатків та робочого столу</string>
     <string name="trust_apps_info_protected">Захищені додатки потребують аутентифікації для відкриття</string>
+    <string name="desktop_show_labels">Показувати підписи іконок на робочому столі</string>
+    <string name="drawer_show_labels">Показувати підписи іконок у меню додатків</string>
+    <string name="show_labels_landscape">Показувати підписи іконок у альбомному режимі</string>
 </resources>
