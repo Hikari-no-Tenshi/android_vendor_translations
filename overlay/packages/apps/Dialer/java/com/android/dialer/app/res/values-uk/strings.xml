@@ -4,12 +4,14 @@
     <string name="auto_call_recording_title">Автоматичний запис викликів</string>
     <string name="call_recording_format">Формат аудіо</string>
     <string name="incall_category_title">Виклики</string>
-    <string name="incall_enable_dnd_title">Вмикати режим \"Не турбувати\" під час викликів</string>
+    <string name="incall_enable_dnd_title">Вмикати \"Не турбувати\" під час викликів</string>
     <string name="incall_vibrate_outgoing_title">Вібрувати при відповіді</string>
     <string name="incall_vibrate_call_waiting_title">Вібрувати при очікуванні</string>
     <string name="incall_vibrate_hangup_title">Вібрувати при відбої</string>
     <string name="incall_vibrate_45_title">Вібрувати щохвилини</string>
     <string name="incall_vibrate_45_summary">Вібруватиме на 45-й секунді кожної хвилини під час вихідних викликів</string>
-    <string name="incall_dnd_dialog_message">Щоб увімкнути режим \"Не турбувати\", додатку Телефон потрібно надати дозвіл контролювати статус режиму \"Не турбувати\".\NБудь ласка, надайте його.</string>
+    <string name="incall_dnd_dialog_message">Щоб увімкнути режим \"Не турбувати\", додатку Телефон потрібно надати дозвіл контролювати статус режиму \"Не турбувати\".\nБудь ласка, надайте його.</string>
     <string name="fullscreen_caller_photo_title">Повноекранне фото</string>
+    <string name="allow">Дозволити</string>
+    <string name="deny">Відмовити</string>
 </resources>
