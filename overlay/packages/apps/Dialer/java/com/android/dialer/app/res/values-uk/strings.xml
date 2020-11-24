@@ -11,4 +11,5 @@
     <string name="incall_vibrate_45_title">Вібрувати щохвилини</string>
     <string name="incall_vibrate_45_summary">Вібруватиме на 45-й секунді кожної хвилини під час вихідних викликів</string>
     <string name="incall_dnd_dialog_message">Щоб увімкнути режим \"Не турбувати\", додатку Телефон потрібно надати дозвіл контролювати статус режиму \"Не турбувати\".\NБудь ласка, надайте його.</string>
+    <string name="fullscreen_caller_photo_title">Повноекранне фото</string>
 </resources>
