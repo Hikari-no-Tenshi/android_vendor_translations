@@ -2,6 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="call_recording_category_title">Запис викликів</string>
     <string name="auto_call_recording_title">Автоматичний запис викликів</string>
+    <string name="call_recording_format">Формат аудіо</string>
     <string name="incall_category_title">Виклики</string>
     <string name="incall_enable_dnd_title">Вмикати режим \"Не турбувати\" під час викликів</string>
     <string name="incall_vibrate_outgoing_title">Вібрувати при відповіді</string>
