@@ -19,11 +19,15 @@
     <string name="trust_notification_alerts_title">Попередження безпеки</string>
     <string name="trust_warnings_alerts_intro">Ви можете вибрати проблеми із безпекою, про які потрібно попереджати. Для вашої безпеки рекомендується увімкнути всі попередження</string>
     <string name="trust_warnings_selinux">Статус SELinux</string>
-    <string name="trust_warnings_keys">Підпис складання</string>
+    <string name="trust_warnings_keys">Підпис збірки</string>
     <string name="trust_onboarding_title">Привітайте Trust</string>
     <string name="trust_onboarding_description">Trust допомагає захистити ваш пристрій і конфіденційність.\nЗначок Trust відображатиметься лише тоді, коли вміст сторінки буде перевірено.</string>
     <string name="trust_onboarding_learn_more">Докладніше</string>
     <string name="trust_onboarding_done">Зрозуміло</string>
     <string name="trust_restrict_usb_title">Обмеження USB</string>
     <string name="trust_restrict_usb_summary">Вимкнення визначення нових USB-гаджетів, коли пристрій заблоковано</string>
+    <string name="sms_security_check_limit_title">Обмеження SMS-повідомлень</string>
+    <string name="sms_security_check_limit_summary">Запитувати підтвердження при відправці більше %s повідомлень за одну хвилину</string>
+    <string name="sms_security_check_limit_summary_none">Додаткам заборонено надсилати повідомлення без підтвердження</string>
+    <string name="sms_security_check_limit_always_confirm">Завжди підтверджувати</string>
 </resources>
