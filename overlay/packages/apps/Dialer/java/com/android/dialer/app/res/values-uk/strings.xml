@@ -14,4 +14,5 @@
     <string name="fullscreen_caller_photo_title">Повноекранне фото</string>
     <string name="allow">Дозволити</string>
     <string name="deny">Відмовити</string>
+    <string name="call_log_stats_title">Статистика</string>
 </resources>
