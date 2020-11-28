@@ -17,6 +17,7 @@
     <string name="preferences_dark_theme">Темна</string>
     <string name="preferences_black_theme">Чорна</string>
     <string name="preferences_color">Основний колір</string>
+    <string name="preferences_color_pick">Основний колір</string>
     <string name="default_start_title">Вид за замовчуванням</string>
     <string name="default_start_last">Раніше використовуваний вид</string>
     <string name="display_options">Параметри відображення</string>
