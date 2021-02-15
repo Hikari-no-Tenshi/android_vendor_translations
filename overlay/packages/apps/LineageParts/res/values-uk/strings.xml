@@ -30,4 +30,8 @@
     <string name="sms_security_check_limit_summary">Запитувати підтвердження при відправці більше %s повідомлень за одну хвилину</string>
     <string name="sms_security_check_limit_summary_none">Додаткам заборонено надсилати повідомлення без підтвердження</string>
     <string name="sms_security_check_limit_always_confirm">Завжди підтверджувати</string>
+    <string name="battery_fully_charged_sound_enabled_title">Звук повного заряду батареї</string>
+    <string name="battery_fully_charged_sound_enabled_summary">Грати звук, коли батарея повністю заряджена</string>
+    <string name="battery_fully_charged_sound_ringtone_title">Звук сповіщення</string>
+    <string name="battery_fully_charged_sound_ringtone_silent">Без звуку</string>
 </resources>
