@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="battery_fully_charged_sound_enabled_title">Звук полного заряда батареи</string>
+    <string name="battery_fully_charged_sound_enabled_summary">Играть звук, когда батарея полностью заряжена</string>
+    <string name="battery_fully_charged_vibrate_title">Вибрировать</string>
+    <string name="battery_fully_charged_sound_ringtone_title">Звук уведомления</string>
+    <string name="battery_fully_charged_sound_ringtone_silent">Без звука</string>
+</resources>
