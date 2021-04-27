@@ -15,4 +15,13 @@
     <string name="allow">Дозволити</string>
     <string name="deny">Відмовити</string>
     <string name="call_log_stats_title">Статистика</string>
+    <string name="flip_action_title">Дія при перевороті</string>
+    <string name="flip_action_dialog_title">При перевертанні телефона\u2026</string>
+    <string name="flip_action_summary">При перевертанні телефона <xliff:g id="action">%s</xliff:g></string>
+    <string name="entry_do_nothing">Нічого не робити</string>
+    <string name="entry_mute_ringer">Вимкнути дзвінок</string>
+    <string name="entry_dismiss_call">Відхилити дзвінок</string>
+    <string name="summary_do_nothing">нічого не робити</string>
+    <string name="summary_mute_ringer">вимкнути дзвінок</string>
+    <string name="summary_dismiss_call">відхилити дзвінок</string>
 </resources>
