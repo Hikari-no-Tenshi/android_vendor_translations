@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_preferences">Налаштування</string>
+    <string name="menu_auto_updates_check_interval_daily">Раз на день</string>
+    <string name="menu_auto_updates_check_interval_weekly">Раз на тиждень</string>
+    <string name="menu_auto_updates_check_interval_monthly">Раз на місяць</string>
+    <string name="menu_auto_updates_check_interval_never">Ніколи</string>
+    <string name="menu_ab_perf_mode">Пріоритетність процесу оновлення</string>
+    <string name="sf_mirror_preferences">Налаштування дзеркала</string>
+    <string name="rank_and_sort_mirrors">Ранг і сортування дзеркал</string>
+    <string name="menu_local_update">Локальне встановлення</string>
+    <string name="action_install">Встановити</string>
+    <string name="action_cancel">Скасувати</string>
+    <string name="action_changelog">Історія змін</string>
+</resources>
