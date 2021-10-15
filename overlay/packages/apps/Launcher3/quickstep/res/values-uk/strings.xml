@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="trust_apps_manager_name">Приховані й захищені додатки</string>
+    <string name="trust_apps_auth_manager">Розблокуйте для керування прихованими й захищеними додатками</string>
+    <string name="trust_apps_auth_open_app">Аутентифікуйте для відкриття %1$s</string>
+    <string name="trust_apps_loading">Завантаження\u2026</string>
+    <string name="trust_apps_no_lock_error">Налаштуйте захищений екран блокування для обмеження доступу до додатків</string>
+    <string name="trust_apps_help">Допомога</string>
+    <string name="trust_apps_info_hidden">Приховані додатки і їх віджети будуть приховані з меню додатків та робочого столу</string>
+    <string name="trust_apps_info_protected">Захищені додатки потребують аутентифікації для відкриття</string>
+</resources>
