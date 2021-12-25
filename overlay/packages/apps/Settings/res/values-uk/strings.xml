@@ -2,4 +2,6 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="volume_link_notification_title">Зв’язати гучність дзвінка й сповіщень</string>
+    <string name="qs_footer_warnings_title">Сповіщення внизу панелі швидких налаштувань</string>
+    <string name="qs_footer_warnings_summary">Відображати сповіщення внизу панелі швидких налаштувань, коли мережу контролюють зовнішні програми або VPN</string>
 </resources>
