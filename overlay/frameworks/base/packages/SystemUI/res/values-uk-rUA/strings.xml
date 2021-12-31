@@ -3,4 +3,8 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="volume_ringer_dnd">Без сигналів</string>
     <string name="volume_ringer_priority_only">Пріоритетні</string>
+    <string name="status_bar_data_saver">Заощадження трафіку</string>
+    <string name="pocket_view_title_cancel">Щоб користуватися телефоном:</string>
+    <string name="pocket_view_top_tag_cancel">Перевірте, чи над синьою ділянкою телефону немає перешкод, і очистіть від бруду чи пилу.</string>
+    <string name="pocket_view_top_tag_cancel2">Натисніть й утримуйте кнопку живлення, щоб примусово вийти з режиму \"У кишені\".</string>
 </resources>
