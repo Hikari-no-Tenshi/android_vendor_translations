@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pocket_view_title_cancel">Щоб користуватися телефоном:</string>
+    <string name="pocket_view_top_tag_cancel">Перевірте, чи над синьою ділянкою телефону немає перешкод, і очистіть від бруду чи пилу.</string>
+    <string name="pocket_view_top_tag_cancel2">Натисніть й утримуйте кнопку живлення, щоб примусово вийти з режиму \"У кишені\".</string>
+</resources>
