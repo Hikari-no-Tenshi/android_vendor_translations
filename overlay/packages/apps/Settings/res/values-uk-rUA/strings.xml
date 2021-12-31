@@ -6,4 +6,6 @@
     <string name="qs_footer_warnings_summary">Відображати сповіщення внизу панелі швидких налаштувань, коли мережу контролюють зовнішні програми або VPN</string>
     <string name="raise_to_wake_title">Пробудження</string>
     <string name="raise_to_wake_summary">Пробудження пристрою замість показу сповіщень</string>
+    <string name="notification_guts_kill_app_button_title">Кнопка примусової зупинки</string>
+    <string name="notification_guts_kill_app_button_summary">Показувати кнопку примусової зупинки при довгому натисненні на сповіщення</string>
 </resources>
