@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="helplines_name">Телефони довіри</string>
+    <string name="helplines_loading">Завантаження\u2026</string>
+    <string name="helplines_empty">Телефонів довіри не знайдено.\nВставте SIM-карту і спробуйте знову</string>
+    <string name="helplines_help">Допомога</string>
+    <string name="helplines_help_title">Це безпечні виклики</string>
+    <string name="helplines_help_message">Жоден з цих номерів не відобразиться в історії викликів.\nВи можете натиснути на будь-який елемент, щоб отримати додаткову інформацію</string>
+    <string name="helplines_help_more_message">Список телефонів довіри містить інформацію, яка оновлюється дописувачами вручну. Якщо ви виявите відсутню або неправильну інформацію, будь ласка, зв’яжіться з нами через сайт www.lineageos.org</string>
+    <string name="helpline_button_more">Більше</string>
+    <string name="unknown_helpline_name">Невідома організація</string>
+    <string name="helpline_name">Назва</string>
+    <string name="helpline_org">Організація</string>
+    <string name="helpline_categories">Категорії</string>
+    <string name="helpline_number">Номер</string>
+    <string name="helpline_website">Веб-сайт</string>
+    <string name="helpline_name_format_country"><xliff:g id="helpline_name" example="Emotional Support Helpline">%1$s</xliff:g> (<xliff:g id="helpline_county" example="US">%2$s</xliff:g>)</string>
+    <string name="helpline_language_cree">Кри</string>
+    <string name="helpline_language_english">Англійська</string>
+    <string name="helpline_language_french">Французька</string>
+    <string name="helpline_language_german">Німецька</string>
+    <string name="helpline_language_inuktitut">Інуктитут</string>
+    <string name="helpline_language_ojibway">Оджібвей</string>
+    <string name="helpline_language_turkish">Турецька</string>
+</resources>
