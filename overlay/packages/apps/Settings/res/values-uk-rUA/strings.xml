@@ -8,4 +8,13 @@
     <string name="raise_to_wake_summary">Пробудження пристрою замість показу сповіщень</string>
     <string name="notification_guts_kill_app_button_title">Кнопка примусової зупинки</string>
     <string name="notification_guts_kill_app_button_summary">Показувати кнопку примусової зупинки при довгому натисненні на сповіщення</string>
+    <string name="status_bar_battery_percentage_text_next_right">Поруч з іконкою (праворуч)</string>
+    <string name="status_bar_battery_percentage_text_next_left">Поруч з іконкою (ліворуч)</string>
+    <string name="signal_style_title">Стиль індикатора сигналу</string>
+    <string name="signal_style_summary">Встановити користувацький стиль іконки сигналу</string>
+    <string name="wifi_style_title">Стиль індикатора WiFi</string>
+    <string name="wifi_style_summary">Встановити користувацький стиль іконки wifi</string>
+    <string name="charging_sounds_enabled_title">Звук заряджання акумулятора</string>
+    <string name="wired_charging_sounds_title">Дротова зарядка</string>
+    <string name="wireless_charging_sounds_title">Бездротова зарядка</string>
 </resources>
