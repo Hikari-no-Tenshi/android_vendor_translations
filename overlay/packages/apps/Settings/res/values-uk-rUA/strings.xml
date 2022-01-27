@@ -17,4 +17,6 @@
     <string name="charging_sounds_enabled_title">Звук заряджання акумулятора</string>
     <string name="wired_charging_sounds_title">Дротова зарядка</string>
     <string name="wireless_charging_sounds_title">Бездротова зарядка</string>
+    <string name="adb_enable_root">Налагодження з root</string>
+    <string name="adb_enable_summary_root">Дозволити запуск налагодження Android як root</string>
 </resources>
