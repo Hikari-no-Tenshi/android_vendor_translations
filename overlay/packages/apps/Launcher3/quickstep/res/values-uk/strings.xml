@@ -9,4 +9,6 @@
     <string name="trust_apps_help">Допомога</string>
     <string name="trust_apps_info_hidden">Приховані додатки і їх віджети будуть приховані з меню додатків та робочого столу</string>
     <string name="trust_apps_info_protected">Захищені додатки потребують аутентифікації для відкриття</string>
+    <string name="suggestion_pref_screen_title">Пропозиції</string>
+    <string name="suggestion_pref_screen_desc">Пропозиції в меню додатків та на домашньому екрані</string>
 </resources>
