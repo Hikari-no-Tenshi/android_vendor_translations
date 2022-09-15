@@ -20,4 +20,8 @@
     <string name="adb_enable_root">Налагодження з root</string>
     <string name="adb_enable_summary_root">Дозволити запуск налагодження Android як root</string>
     <string name="switch_contained">Заповнений</string>
+    <string name="ringtone_vibration_pattern">Шаблон вібрації під час викликів</string>
+    <string name="pattern_custom">Користувацький</string>
+    <string name="custom_vibration_pattern_title">Користувацький шаблон</string>
+    <string name="custom_vibration_pattern_summary">Встановіть власний шаблон вібрації</string>
 </resources>
