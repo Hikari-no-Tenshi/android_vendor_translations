@@ -11,4 +11,23 @@
     <string name="trust_apps_info_protected">Захищені додатки потребують аутентифікації для відкриття</string>
     <string name="suggestion_pref_screen_title">Пропозиції</string>
     <string name="suggestion_pref_screen_desc">Пропозиції в меню додатків та на домашньому екрані</string>
+    <string name="settings_edit_allow_title">Дозволити редагування</string>
+    <string name="settings_edit_allow_summary_on">Значки та віджети можна додавати, видаляти та переміщувати на доманшньому екрані</string>
+    <string name="settings_edit_allow_summary_off">Значки та віджети не можна додавати, видаляти та переміщувати на доманшньому екрані</string>
+    <string name="settings_edit_widgets_error">Неможливо додати віджети на головний екран</string>
+    <string name="desktop_show_labels">Показувати назви значків на робочому столі</string>
+    <string name="drawer_show_labels">Показувати назви значків в меню додатків</string>
+    <string name="show_labels_landscape">Показувати назви значків в альбомному режимі</string>
+    <string name="title_show_google_app">Показати додаток Google</string>
+    <string name="msg_minus_one_on_left">Коли ви проводите праворуч від головного домашнього екрана</string>
+    <string name="msg_minus_one_on_right">Коли ви проводите ліворуч від головного домашнього екрана</string>
+    <string-array name="welcome_message_variants">
+        <item>Гарного дня</item>
+        <item>Дякуємо, що обираєте нас</item>
+        <item>Подобається? Підкинь нам пива</item>
+        <item>Найкраща прошивка всіх часів.</item>
+        <item>Привітайся з нами в Telegram</item>
+        <item>Натисніть тут, щоб почати</item>
+        <item>Ми любимо тебе 3000</item>
+    </string-array>
 </resources>
