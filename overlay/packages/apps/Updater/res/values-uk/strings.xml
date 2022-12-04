@@ -12,5 +12,9 @@
     <string name="menu_local_update">Локальне встановлення</string>
     <string name="action_install">Встановити</string>
     <string name="action_cancel">Скасувати</string>
-    <string name="action_changelog">Історія змін</string>
+    <string name="action_pause">Зупинити</string>
+    <string name="action_resume">Відновити</string>
+    <string name="action_info">Інформація</string>
+    <string name="action_delete">Видалити</string>
+    <string name="menu_show_changelog">Показати історію змін</string>
 </resources>
