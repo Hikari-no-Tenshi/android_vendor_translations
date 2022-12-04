@@ -8,4 +8,8 @@
     <string name="live_display_anti_flicker_summary">Запобігає надмірному мерехтінню та зменшує навантаження на очі в умовах недостатнього освітлення. Це може погіршити точність передачі кольору та вплинути на відображення деяких елементів.</string>
     <string name="live_display_reading_mode_title">Режим читання</string>
     <string name="live_display_reading_mode_summary">Режим відтінків сірого для тривалого читання</string>
+    <string name="touchscreen_gesture_single_tap_title">Одинарне натискання</string>
+    <string name="touchscreen_gesture_action_volume_down">Зменшити гучність медіа</string>
+    <string name="touchscreen_gesture_action_volume_up">Збільшити гучність медіа</string>
+    <string name="touchscreen_gesture_action_ambient_display">Активація екрана</string>
 </resources>
