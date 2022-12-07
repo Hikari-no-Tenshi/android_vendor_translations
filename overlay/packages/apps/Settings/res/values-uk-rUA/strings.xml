@@ -29,4 +29,5 @@
     <string name="battery_tip_unrestrict_app_dialog_ok">Видалити</string>
     <string name="backup_transport_setting_label">Змінити постачальника резервного копіювання</string>
     <string name="backup_transport_title">Вибір постачальника резервного копіювання</string>
+    <string name="incall_vibrate_connect_title">Вібрація при з\'єднанні</string>
 </resources>
