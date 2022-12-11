@@ -35,4 +35,5 @@
     <string name="icon_pack_default_label">За замовчуванням</string>
     <string name="icon_pack_add">Встановити ще</string>
     <string name="icon_pack_no_market">Немає доступного магазину додатків</string>
+    <string name="icons_category_title">Значки</string>
 </resources>
