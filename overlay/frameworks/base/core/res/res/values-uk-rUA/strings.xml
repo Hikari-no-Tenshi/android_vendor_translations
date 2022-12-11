@@ -4,4 +4,6 @@
     <string name="pocket_view_title_cancel">Щоб користуватися телефоном:</string>
     <string name="pocket_view_top_tag_cancel">Перевірте, чи над синьою ділянкою телефону немає перешкод, і очистіть від бруду чи пилу.</string>
     <string name="pocket_view_top_tag_cancel2">Натисніть й утримуйте кнопку живлення, щоб примусово вийти з режиму \"У кишені\".</string>
+    <string name="permgrouplab_otherSensors">Датчики</string>
+    <string name="permgroupdesc_otherSensors">отримати доступ до даних датчика про орієнтацію, рух тощо.</string>
 </resources>
