@@ -30,4 +30,9 @@
         <item>Натисніть тут, щоб почати</item>
         <item>Ми любимо тебе 3000</item>
     </string-array>
+    <string name="icon_pack">Пакет значків</string>
+    <string name="icon_pack_title">Пакет значків</string>
+    <string name="icon_pack_default_label">За замовчуванням</string>
+    <string name="icon_pack_add">Встановити ще</string>
+    <string name="icon_pack_no_market">Немає доступного магазину додатків</string>
 </resources>
