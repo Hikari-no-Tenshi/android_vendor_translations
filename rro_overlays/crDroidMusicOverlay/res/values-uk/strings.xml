@@ -2,4 +2,6 @@
 <resources>
     <string name="pref_title_remember_shuffle">Запам‘ятати перемішування</string>
     <string name="pref_summary_remember_shuffle">Режим перемішування залишатиметься ввімкненим під час вибору нового списку пісень</string>
+    <string name="sort_order_a_z">За зростанням</string>
+    <string name="sort_order_z_a">За спаданням</string>
 </resources>
