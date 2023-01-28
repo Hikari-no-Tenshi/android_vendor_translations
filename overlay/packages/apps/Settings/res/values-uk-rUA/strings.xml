@@ -30,4 +30,6 @@
     <string name="backup_transport_setting_label">Змінити постачальника резервного копіювання</string>
     <string name="backup_transport_title">Вибір постачальника резервного копіювання</string>
     <string name="incall_vibrate_connect_title">Вібрація при з\'єднанні</string>
+    <string name="auto_brightness_one_shot_title">Одноразова автояскравість</string>
+    <string name="auto_brightness_one_shot_summary">Регулювання яскравості буде відбуватися тільки в момент увімкнення екрана</string>
 </resources>
