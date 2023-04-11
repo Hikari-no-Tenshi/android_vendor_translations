@@ -4,4 +4,10 @@
     <string name="volume_ringer_dnd">Без сигналів</string>
     <string name="volume_ringer_priority_only">Пріоритетні</string>
     <string name="status_bar_data_saver">Заощадження трафіку</string>
+    <string name="keyguard_indication_dash_charging_time"><xliff:g id="percentage">%2$s</xliff:g> • Заряджання Dash (<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%1$s</xliff:g> до повного зарядження)</string>
+    <string name="keyguard_plugged_in_dash_charging"><xliff:g id="Percentage">%s</xliff:g> • Заряджання Dash</string>
+    <string name="keyguard_indication_warp_charging_time"><xliff:g id="percentage">%2$s</xliff:g> Заряджання Warp (<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%1$s</xliff:g> до повного зарядження)</string>
+    <string name="keyguard_plugged_in_warp_charging"><xliff:g id="Percentage">%s</xliff:g> • Заряджання Warp</string>
+    <string name="keyguard_indication_vooc_charging_time"><xliff:g id="percentage">%2$s</xliff:g> • Заряджання VOOC(<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%1$s</xliff:g> до повного зарядження)</string>
+    <string name="keyguard_plugged_in_vooc_charging"><xliff:g id="percentage">%s</xliff:g> • Заряджання VOOC</string>
 </resources>
