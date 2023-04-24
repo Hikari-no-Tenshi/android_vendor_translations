@@ -32,4 +32,5 @@
     <string name="incall_vibrate_connect_title">Вібрація при з\'єднанні</string>
     <string name="auto_brightness_one_shot_title">Одноразова автояскравість</string>
     <string name="auto_brightness_one_shot_summary">Регулювання яскравості буде відбуватися тільки в момент увімкнення екрана</string>
+    <string name="radio_info_title">Інформація про мережу</string>
 </resources>
