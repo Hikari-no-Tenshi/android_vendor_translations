@@ -19,4 +19,8 @@
     <string name="disable_proximity_sensor_summary">Не вимикати сенсорний екран і дисплей під час дзвінка на основі датчика наближення</string>
     <string name="sensor_settings_titile">Датчики</string>
     <string name="action_menu_helplines">Телефони довіри</string>
+    <string name="max_brightness_on_incoming_call_mode">Максимальна яскравість для вхідних викликів</string>
+    <string name="max_brightness_on_incoming_call_disabled">Вимкнено</string>
+    <string name="max_brightness_on_incoming_call_not_dnd">Лише тоді, коли не в режимі \"Не турбувати\"</string>
+    <string name="max_brightness_on_incoming_call_always">Завжди</string>
 </resources>
