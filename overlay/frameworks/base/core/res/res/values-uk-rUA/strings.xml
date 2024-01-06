@@ -8,4 +8,6 @@
     <string name="permgroupdesc_otherSensors">отримати доступ до даних датчика про орієнтацію, рух тощо.</string>
     <string name="permgrouplab_network">Мережа</string>
     <string name="permgroupdesc_network">отримувати доступ до мережі</string>
+    <string name="permlab_otherSensors">отримувати доступ до датчиків (наприклад, компасу)</string>
+    <string name="permdesc_otherSensors" product="default">Дозволяє додатку отримувати доступ до даних датчиків, що відстежують орієнтацію, рух, вібрацію (зокрема низькочастотний звук) і дані про навколишнє середовище</string>
 </resources>
